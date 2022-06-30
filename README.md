@@ -16,4 +16,9 @@ Instruksi penginstallan
 <strong>Pastikan sudah terinstall nodejs</strong>
     <br>
 4.setelah package terinstall, ubah pada main.js pada variabel userList dengan list user kalian.
+<br>
+5.setelah itu jalankan program dengan ketikan
+<blockquote>
+npm start
+</blockquote>
 Done!
