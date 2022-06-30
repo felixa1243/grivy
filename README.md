@@ -3,7 +3,7 @@ Instruksi penginstallan
 -copy url repository ini (halaman saat ini).<br>
 -buka terminal lalu ketikan command ini <br>
 <blockquote>
-    git clone < url >
+    git clone < url >.git
 </blockquote>
 <br>
 2.Setelah di clone rename folder tdi sesuka hati kalian, lalu masuk ke dalam folder tersebut dengan perintah cd < namafolder >
